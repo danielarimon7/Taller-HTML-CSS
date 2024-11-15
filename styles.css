@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    background: #333;
+    color: #fff;
+}
+
+h1, h2 {
+    font-family: 'Georgia', serif;
+}
+
+footer {
+    background: #222;
+}
